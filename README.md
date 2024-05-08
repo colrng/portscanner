@@ -7,6 +7,7 @@
 실행 방법은 아래에 있습니다.
 
 sudo apt-get install gcc
+
 sudo apt-get install nano
 
 gcc -o (파일명) (파일명).c
