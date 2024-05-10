@@ -14,8 +14,9 @@ gcc -o (파일명) (파일명).c
 
 ./(만들어진 파일명)
 
+python 파일은 
+
+python3 (파일이름)
+
+
 이렇게 하시면 간단 포트 스캐닝이 끝납니다.
-
-만약 한국어가 안되는 분들은
-
-sudo apt install fonts-name -y
